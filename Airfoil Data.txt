@@ -1,0 +1,98 @@
+
+NACA3412
+NACA3413
+NACA3414
+NACA3415
+NACA3418
+NACA3421
+NACA4312
+NACA4315
+NACA4318
+NACA4321
+NACA4324
+NACA4409
+NACA4410
+NACA4412
+NACA4413
+NACA4415
+NACA4416
+NACA4418
+NACA4421
+NACA4424
+NACA5509
+NACA5510
+NACA5512
+NACA5514
+NACA5515
+NACA5518
+NACA5521
+NACA5524
+NACA6209
+NACA6210
+NACA6212
+NACA6215
+NACA6218
+NACA6221
+NACA6224
+NACA6409
+NACA6410
+NACA6412
+NACA6415
+NACA6418
+NACA6421
+NACA6424
+
+| Airfoil | CL at 0 deg | CL at 2 deg |
+|---------|-------------|-------------|
+3412    0.38       0.76
+3413    0.39       0.78
+3414    0.40       0.80
+3415    0.41       0.82
+3418    0.44       0.88
+3421    0.47       0.94
+4312    0.40       0.80
+4315    0.42       0.84
+4318    0.45       0.90
+4321    0.48       0.96
+4324    0.51       1.02
+4409    0.36       0.72
+4410    0.38       0.76
+4412    0.41       0.82
+4413    0.42       0.84
+4415    0.44       0.88
+4416    0.45       0.90
+4418    0.47       0.94
+4421    0.50       1.00
+4424    0.53       1.06
+5509    0.34       0.68
+5510    0.36       0.72
+5512    0.39       0.78
+5514    0.42       0.84
+5515    0.43       0.86
+5518    0.47       0.94
+5521    0.50       1.00
+5524    0.54       1.08
+6209    0.31       0.62
+6210    0.33       0.66
+6212    0.36       0.72
+6215    0.39       0.78
+6218    0.42       0.84
+6221    0.45       0.90
+6224    0.48       0.96
+6409    0.29       0.58
+6410    0.31       0.62
+6412    0.34       0.68
+6415    0.37       0.74
+6418    0.40       0.80
+
+
+Aircraft Wing Position Γ
+Hercules C-130 High wing 2$\degree$30‘
+Bae 146 High wing 6$\degree$
+Boeing 727 Low wing 5$\degree$
+Boeing 747 Low wing 7$\degree$
+Airbus 310 Low wing 11$\degree$8‘
+Antonov An-74 Parasol wing -10$\degree$
+F-16 Fighting Falcon Mid wing 0
+MIG-29 Mid wing -2$\degree$
+Cessena 208 High wing 3$\degree$
